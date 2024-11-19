@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    overflow-x: hidden;
+    font-family: "Roboto Slab", serif;
+
+}
+.icn{
+    width: 90px;
+    height: 35px;
+}
+.size{
+    width: 25hw;
+    height: 240px;
+}
+.somepic{
+    height: 240px;
+}
+.cartsize{
+    width: 50px;
+    height: 40px;
+    margin: 30px;
+
+}
+
+
+
+
+
+
+/* font-family: "DM Serif Display",serif; */
